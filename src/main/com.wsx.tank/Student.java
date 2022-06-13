@@ -3,6 +3,7 @@ public class Student {
         private int age;
         private int sno;
         private String name;
+        private double height;
         System.out.println("Hello world!");
     }
 }
